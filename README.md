@@ -1,0 +1,2 @@
+# Android_Eventbus-Mqtt
+Android中使用Eventbus转发mqtt消息的小demo
