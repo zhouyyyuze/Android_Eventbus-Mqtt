@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventBus+mqtt</string>
+    <string name="android">Android 服务实例</string>
+    <string name="publish">publish</string>
+</resources>
